@@ -15,7 +15,7 @@ Welcome to the Digital Lock! This repository contains the source code and docume
 
 ## Introduction
 
-This project aims to design, build, and test a digital lock using FPGA. An electronic lock is a digital combinational circuit that opens (output goes high) only for certain combinations of the digital inputs. In this project, we designed a 4-digit electronic lock that operates for two code combinations.
+This project aims to design, build and test a digital lock using FPGA. An electronic lock is a digital combinational circuit that opens (output goes high) only for certain combinations of the digital inputs. In this project, we designed a 4-digit electronic lock that operates for two code combinations.
 
 ## Features
 
