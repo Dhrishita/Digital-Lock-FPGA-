@@ -40,7 +40,7 @@ This project aims to design, build and test a digital lock using FPGA. An electr
    ```bash
    git clone https://github.com/yourusername/digital-lock-fpga.git
 
-2. Open the project in your FPGA development software (e.g., Xilinx Vivado).
+2. Open the project in your FPGA development software (e.g., Quartus).
 
 3. Synthesize and implement the design.
    
