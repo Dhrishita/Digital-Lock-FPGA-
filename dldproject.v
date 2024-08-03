@@ -5,10 +5,7 @@ output [1:0] led,
 output reg [6:0] seven, //display lock 'L' or unlock 'U'
 output reg [1:0] cnt=2'b00,   //count number of wrong passwords
 output reg alarm1=1'b0,alarm2=1'b0,alarm3=1'b0 //glows when password is wrong consecutive 3 times
-
-
 );
-
 
 reg pass [3:0] ;
 
@@ -21,11 +18,9 @@ pass[1]=in[1];
 pass[2]=in[2];
 pass[3]=in[3];
 end
-
 end
 
 //parameter pass=4'b0111; //password
-
 //checking whether password is correct or not
 assign led[0]=~(pass[0]^in[0])&~(pass[1]^in[1])&~(pass[2]^in[2])&~(pass[3]^in [3]);
 assign led[1]=~led[0];
