@@ -32,7 +32,7 @@ This project aims to design, build and test a digital lock using FPGA. An electr
 ## Software Requirements
 
 - VHDL/Verilog for programming the FPGA
-- Xilinx Vivado or any compatible FPGA development software
+- Quartus/Xilinx Vivado or any compatible FPGA development software
 
 ## Installation
 
