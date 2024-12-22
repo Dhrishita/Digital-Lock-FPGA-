@@ -38,7 +38,7 @@ This project aims to design, build and test a digital lock using FPGA. An electr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/digital-lock-fpga.git
+   git clone https://github.com/Dhrishita/digital-lock-fpga.git
 
 2. Open the project in your FPGA development software (e.g., Quartus).
 
