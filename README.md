@@ -6,10 +6,10 @@ Welcome to the Digital Lock! This repository contains the source code and docume
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Hardware Requirements](#hardwarerequirements)
-- [Software Requirements](#softwarerequirements)
+- [Hardware Requirements](#hardware-requirements)
+- [Software Requirements](#software-requirements)
 - [Installation](#installation)
-- [Hardware Setup](#hardwaresetup)
+- [Hardware Setup](#hardware-setup)
 - [Working](#Working)
 - [Contact](#contact)
 
